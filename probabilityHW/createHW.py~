@@ -1,0 +1,10 @@
+from selenium import webdriver
+
+LOGIN_PAGE = "https://seattleu.instructure.com"
+COURSE_PAGE = ""
+
+driver = webdriver.Firefox()
+
+driver.get(LOGIN_PAGE)
+
+driver.quit()
