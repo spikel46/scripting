@@ -9,13 +9,13 @@ LOGIN_XPATH = "//button[contains(@class,'Button--login')]"
 SU_USER = os.environ["SU_USER"]
 SU_PASS = os.environ["SU_PASS"]
 
-HW_PAGE = "https://seattleu.instructure.com/courses/1573209/assignments/6628789#submit"
+HW_PAGE = "https://seattleu.instructure.com/courses/1573209/assignments/6628791"
 PROB_REGEX = r"[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}"
 TITLE_XPATH = "//div[contains(@class,'title-content')]"
 TEXT_XPATH = "//div[contains(@class,'description user_content student-version')]"
 
 
-driver = webdriver.Firefox()
+driver = webdriver.Chrome()
 
 driver.get(LOGIN_PAGE)
 time.sleep(5)
