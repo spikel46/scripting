@@ -1,6 +1,6 @@
 # Just a bunch of personal scripts  
 
-### flux deprecated
+### flux
 * script to start flux
 * script to kill flux
 
