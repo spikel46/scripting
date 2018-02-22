@@ -8,6 +8,9 @@
 * script to remind me how to automate outputting stuff to bash so I can have path variables.
 * can be improved with conditionals
 
+### seattle u scheduler
+* A script used to automatically add my classes for a quarter to my Seattle U Calendar
+
 ### selenium setup
 * script to add folder to path. Selenium with firefox needs the folder containing geckodriver to be in path, so this accomplishes that without the need for hard-coding.
 
