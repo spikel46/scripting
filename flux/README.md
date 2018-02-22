@@ -1,4 +1,4 @@
-#Flux **DEPRECATED**
+# Flux **DEPRECATED**
 
 This script used to set up flux to work automatically with your current zipcode.
 
